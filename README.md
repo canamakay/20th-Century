@@ -9,4 +9,3 @@ For this project, data was scraped from a [web page](https://en.wikipedia.org/wi
 ## Tools Used
 - Beautiful Soup, 
 - Selenium for webscraping
-- 
